@@ -1,11 +1,10 @@
-# Maintainer: Bernhard Landauer <oberon@manjaro.org>
+# Maintainer: Sighery
 
 pkgname=i3exit
-pkgver=20180529
+pkgver=0.1.0
 pkgrel=1
 pkgdesc="Systemd/OpenRC-compatible exit-script for i3, including 'blurlock'"
 arch=('any')
-groups=('i3-manjaro')
 license=('GPL')
 depends=('i3-wm'
     'i3lock'
