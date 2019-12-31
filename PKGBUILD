@@ -1,7 +1,7 @@
 # Maintainer: Sighery
 
 pkgname=i3exit
-pkgver=0.1.0
+pkgver=1.0.0
 pkgrel=1
 pkgdesc="Systemd/OpenRC-compatible exit-script for i3"
 arch=('any')
